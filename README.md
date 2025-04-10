@@ -1,6 +1,6 @@
 # Imagify
 
-**Imagify** is a full-stack web application that allows users to upload, edit, and manage images with credit-based access. It also includes user authentication and Razorpay payment integration for purchasing credits.
+**Imagify** is a full-stack web application that allows users to generate images by providing tex with credit-based access. It also includes user authentication and Razorpay payment integration for purchasing credits.
 
 ---
 
